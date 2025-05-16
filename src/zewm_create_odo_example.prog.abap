@@ -13,7 +13,7 @@
 *&---------------------------------------------------------------------*
 REPORT zewm_create_odo_example.
 
-* Might want to add default/memory values, otherwis testing is tiresome
+* Might want to add default/memory values, otherwise testing is tiresome
 PARAMETERS: p_lgnum  TYPE /scwm/lgnum OBLIGATORY,
             p_hu     TYPE /scwm/de_huident OBLIGATORY,
             p_shipto TYPE /scdl/dl_partyno OBLIGATORY,  "Might not be needed
