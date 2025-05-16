@@ -1,5 +1,4 @@
-# SAP-EWM-EXAMPLES
-SAP EWM Code Examples 
+# SAP EWM Code Examples 
 
 Well, just one example for now.
 
